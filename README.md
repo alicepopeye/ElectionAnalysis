@@ -17,9 +17,9 @@ We need to analyze the election with the followign task.
 - Software: Python, 3.6.1, Visual Studio Code, 1.54.3
 
 ## Election-Audit Results
-The analysis of the election show that:
--There are total 369,711 votes
--The candidates were:
+- The analysis of the election show that:
+- There are total 369,711 votes
+- The candidates were:
   - Charles Casper Stockham
   - Diane DeGette
   - Raymon Anthony Doane
